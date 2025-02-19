@@ -1,6 +1,8 @@
 # miPrimerRepo
-Prueba de clases de git and gitHub de platzi
+Prueba de clases de git and gitHub de platzi.
+
 Mi priumera contribucion de Giuthub para local. 
 
-Mi pimera contribucion local para gitHub
+Mi pimera contribucion local para gitHub.
+
 Un commit mas desde gitHub
